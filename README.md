@@ -1,88 +1,83 @@
-# Data Scientist
- 
+# 📊 Business Analyst | Data-Driven Marketer | AI Sales Strategist
 
 ---
+
 ## 🎓 Education
 
-**Carleton University** – M.Eng in Data Science, Analytics & AI *(2023 – 2025)*  
-**Georgian College** – PG Diploma in AI: Architecture & Implementation *(2022)*  
-**University of Manitoba** – Applied Business Management *(2019 – 2020)*  
-**PDPU, India** – B.Eng in Electrical Engineering *(2014 – 2018)*
+**Algonquin College** – Postgraduate Diploma in Marketing Management *(2024 – 2025)*  
+**Algonquin College** – Postgraduate Diploma in Business Development & Sales *(2023 – 2024)*  
+**NICHE, India** – B.Eng in Mechanical Engineering *(2013 – 2017)*
 
 ---
+
 ## 💼 Experience
 
-### Machine Learning Scientist  
-**Defence Research and Development Canada (DRDC)**  
-*Jan 2025 – Present, Ottawa, ON*  
-- Designed an end-to-end ML pipeline for scraping and processing open-source intelligence using LLMs.  
-- Built scalable microservices (Flask, Docker, GKE) for deployment and orchestration.  
-- Integrated GenAI dashboards to assist analysts, reducing manual effort by **90%** in report generation.  
+### Sales Representative | Business Development (Retail & Tech)  
+**Best Buy / Bell Partner** – Ottawa, ON  
+*Sept 2024 – Present*  
+- Achieved 132% of Q1 target; 2× Best Sales Consultant award.  
+- Developed outbound lead systems and referral channels that increased SMB plan sales.  
+- Leveraged CRM data to forecast sales trends and upsell opportunities.  
+- Delivered product bundles based on data insights, improving conversion and attachment rates.
 
-### Junior Data Scientist  
-**Canadian Intellectual Property Office (ISED)**  
-*May 2024 – Jan 2025, Gatineau, QC*  
-- Developed BERT-based models for NAPCS code classification in trademark filings.  
-- Devised a few-shot learning system (pseudo-labeling, synthetic data, active learning), improving accuracy from **30% → 80%**.  
-- Created SHAP-powered explainability dashboards for human-in-the-loop QA.  
+### Inside Sales Specialist | SaaS (Remote)  
+**SalesHandy (Outbound Sales & Analytics Platform)**  
+*Apr 2023 – Jun 2023*  
+- Managed 60–80 daily cold calls/emails across North America & UK.  
+- Maintained CRM hygiene and optimized SDR workflows using Freshsales.  
+- Provided client feedback to product team to improve data dashboards and features.
 
-### Graduate Teaching Assistant  
-**Carleton University**  
-*Sept 2023 – Present, Ottawa, ON*  
-- Led graduate tutorials and labs in ML, optimization, and deep learning for 100+ students across four semesters.  
-- Delivered guest lectures and hands-on demos to support curriculum delivery.  
-- Provided personalized academic mentoring to enhance student outcomes.  
-
----
-
-## 🚀 Projects
-
-### Enhancing Neural Topic Models with RL and Count-Based Exploration  
-*PyTorch, SBERT, VAE, REINFORCE*  
-- Modeled topic inference as an MDP using REINFORCE with neural density-based bonuses.  
-- Achieved **20% higher coherence** and **0.975 topic diversity** over ProdLDA and ETM.  
-
-### Nowcasting Canadian Labour Market Indicators – Statistics Canada  
-*SARIMAX, Chronos, REST APIs, MySQL*  
-- Reduced indicator reporting lag by **50%** to 21 days.  
-- Integrated GDP, stock indices, and immigration data for multi-factor forecasting.
-
-### Trip Destination Prediction with GNNs  
-*Graph Neural Networks, Matplotlib, MySQL*  
-- Used optimized neural architectures for classifying trip types and predicting destinations using cross-city data.
-
-### Advanced Fake Statement Detection  
-*HuggingFace, W&B, NLP, Ensemble Learning*  
-- Fine-tuned BERT variants on the TruthSeeker dataset.  
-- Achieved **96.9% accuracy (2-way)** and **50.5% accuracy (4-way)**, outperforming SOTA.
-
-### Few-Shot Learning for Images with CosFace-CLIP  
-*Hydra, PyTorch, Vision-Language Models*  
-- Integrated CosFace into Proto-CLIP for enhanced few-shot performance.  
-- Achieved robust results in 4-shot and 8-shot scenarios across diverse datasets.
+### Key Accounts Manager – SaaS  
+**Roninaks Ventures Pvt Ltd (B2B Sales & Insights Platform)**  
+*Dec 2020 – Nov 2022*  
+- Managed and grew a portfolio of 60+ accounts, increasing customer retention by 40%.  
+- Mentored junior SDRs and implemented consultative sales strategies using customer usage data.  
+- Collaborated with marketing to improve targeting using basic segmentation and behavior data.
 
 ---
 
-## 🛠 Technical Skills
+## 📈 Projects
 
-**Languages**: Python, R, SQL  
-**Frameworks**: PyTorch, TensorFlow, FastAPI, Streamlit, Hydra  
-**Libraries**: scikit-learn, Hugging Face, XGBoost, spaCy, NLTK, NumPy, Pandas  
-**Databases**: PostgreSQL, MySQL, SQLite  
-**Cloud & DevOps**: GCP (Vertex AI, GKE, Cloud Build), AWS, Docker, Kubernetes, Terraform, CI/CD  
-**Tools & Platforms**: SHAP, Weights & Biases, Power BI, Tableau, VS Code  
-**Core Skills**: LLMs, NLP, Time-Series Forecasting, Explainability, A/B Testing, Active Learning, Fairness Audits, Model Deployment
+### CRM Optimization & Customer Segmentation – Capstone  
+*HubSpot, Google Data Studio, Excel Analytics*  
+- Conducted cohort analysis and lead scoring to improve sales team prioritization.  
+- Designed an automated CRM pipeline for improved response time and follow-ups.  
+- Resulted in a 25% increase in lead-to-opportunity conversion.
+
+### Market Entry Strategy for Emotional AI Tool  
+*Entropik Tech – Academic Research*  
+- Conducted SWOT analysis and developed positioning strategy for emotional AI in Canada.  
+- Explored customer perceptions using qualitative research and sentiment scoring.
 
 ---
 
+## 🧰 Tools & Skills
 
+**Sales & Analytics**: HubSpot, Salesforce, Google Analytics, Freshsales  
+**Marketing Tech**: Mailchimp, SEMrush, Canva, Meta Ads Manager  
+**CRM & Reporting**: Excel (Pivot Tables, VLOOKUP), Google Data Studio, Tableau  
+**Research & Strategy**: Survey Design, SWOT Analysis, Market Segmentation  
+**Other Tools**: PowerPoint, Notion, Slack, Trello
+
+---
+
+## 🧠 Interests & Focus Areas
+
+- AI in Marketing  
+- Predictive Lead Scoring  
+- Customer Experience Analytics  
+- CRM Optimization  
+- NLP for Sales Conversations  
+- Behavioral Segmentation  
+
+---
 
 ## 📜 Certifications
 
-- AWS Academy Cloud Foundations  
-- AWS Academy Machine Learning Foundations
+- HubSpot Inbound Marketing  
+- Google Analytics for Beginners  
+- LinkedIn Learning: CRM Analytics for B2B
 
 ---
 
-> *“I combine machine learning research with real-world deployment experience to build systems that scale, explain, and solve.”*
-
+> *“I bring the curiosity of a data analyst, the drive of a sales professional, and the mindset of a strategist to every conversation and campaign.”*
