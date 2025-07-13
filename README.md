@@ -1,4 +1,4 @@
-# 📊 Business Analyst | Data-Driven Marketer | AI Sales Strategist
+# Mechanical Engineer-Turned Sales Strategist | B2B Lead Generation & Business Development | Key Account Growth | Startup GTM | AI & Tech Enthusiast
 
 ---
 
